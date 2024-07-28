@@ -4,7 +4,6 @@
 <form action="buscar_vuelos.php" method="post">
     Origen: <input type="text" name="origen"><br>
     Destino: <input type="text" name="destino"><br>
-    Fecha de salida: <input type="date" name="fecha_salida"><br>
-    Número de pasajeros: <input type="number" name="num_pasajeros"><br>
-    <input type="submit" value="Buscar vuelos">
+    Fecha: <input type="date" name="fecha"><br>
+    <input type="submit" value="Buscar Vuelos">
 </form>
